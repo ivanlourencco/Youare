@@ -1,0 +1,12 @@
+.name{
+    background-color: rgb(203, 203, 209);
+    width: 500px;
+    border-radius: 6px;
+    margin: 0 auto 15px auto;
+font-size: 30px;
+cursor: pointer;
+transition: trasnform 200ms ease-in-out;
+}
+.name:hover{
+    transform: scale(1.1);
+}
